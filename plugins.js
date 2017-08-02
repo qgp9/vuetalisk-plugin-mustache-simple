@@ -23,6 +23,6 @@ class MustacheSimple {
 }
 
 module.exports = MustacheSimple
-MustachSimple.install = function (words) {
+MustacheSimple.install = function (words) {
   return new MustacheSimple(words)
 }

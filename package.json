@@ -16,5 +16,8 @@
     "mustache"
   ],
   "author": "qgp9 <pauljang9@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mustache-simple": "^0.0.1"
+  }
 }
